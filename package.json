@@ -1,0 +1,26 @@
+{
+    "name": "Graphs",
+    "description": "Making graphs from scratch (in TypeScript)",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "undefined",
+    "private": "false",
+    "author": {
+        "name": "Galitan-dev",
+        "url": "https://github.com/Galitan-dev"
+    },
+    "repository": "https://github.com/Galitan-dev/Graphs",
+    "bugs": "https://github.com/Galitan-dev/Graphs/issues",
+    "homepage": "https://github.com/Galitan-dev/Graphs",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/index.js",
+        "dev": "nodemon src/index.ts"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.23",
+        "nodemon": "^2.0.15",
+        "ts-node": "^10.7.0",
+        "typescript": "^4.6.3"
+    }
+}

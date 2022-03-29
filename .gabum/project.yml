@@ -1,0 +1,9 @@
+name: Graphs
+description: Making graphs from scratch (in TypeScript)
+private: false
+license:
+  id: mit
+  name: MIT License
+author: Galitan-dev
+template: ts
+path: /Users/ethan/Documents/Tests.nosync/GabumProjects/Graphs
